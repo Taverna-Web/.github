@@ -81,10 +81,10 @@ O ecossistema Taverna Web é distribuído sob a licença [MIT](LICENSE).
 
 ## 🧙 Autores e Mantenedores
 
-Desenvolvido por **Bruno Ribeiro Viana Diniz** e equipe.
+Desenvolvido por:
 - GitHub: [@Diniz-Bruno](https://github.com/Diniz-Bruno)
 - GitHub: [@ottoyshiro](https://github.com/ottoyshiro)
-- GitHub: [@p08650519-creator](https://github.com/p08650519-creator)
+- GitHub: [@PedroHSilvaM](https://github.com/PedroHSilvaM)
 
 ---
 *Que suas rolagens sejam sempre 20 naturais! 🎲✨*
